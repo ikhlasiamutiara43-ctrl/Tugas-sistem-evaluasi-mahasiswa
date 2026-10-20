@@ -3,9 +3,9 @@
 Tugas mata kuliah Algoritma dan Pemrograman.
 
 ## Identitas
-- Nama: [Mutiara Ikhlasia]
-- NIM: [2609010188]
-- Kelas: [E1 Pagi]
+- Nama: Mutiara Ikhlasia
+- NIM: 2609010188
+- Kelas: E1 Pagi
 
 ## Deskripsi
 Program Python untuk menghitung nilai akhir mahasiswa dan menentukan
